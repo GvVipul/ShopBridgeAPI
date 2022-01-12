@@ -1,0 +1,11 @@
+*************************************************************************************
+Message: Exception of type 'System.Exception' was thrown.
+StackTrace:    at ShowBridge.Services.ProductService.ProductService.GetAllProducts() in D:\Vipul\Training\ShopBridge\ShopBridge\Services\ProductService\ProductService.cs:line 62
+Source: ShowBridge
+TargetSite: Void MoveNext()
+Inner Exception : 
+Inner Exception Message : 
+
+*************************************************************************************
+
+

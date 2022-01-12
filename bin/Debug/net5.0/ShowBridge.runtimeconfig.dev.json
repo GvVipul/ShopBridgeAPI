@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\Users\\venkavip\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\Users\\venkavip\\.nuget\\packages"
+    ]
+  }
+}
